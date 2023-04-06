@@ -21,6 +21,8 @@ Turkish/English Complete Learning Management System Based on Laravel 9
 ##
 ![courseindex](./output/courseindex.PNG)
 ##
+![explore](./output/explorewithoutlogin.PNG)
+##
 ![lesson](./output/lesson.PNG)
 ##
 ![login](./output/login.PNG)
